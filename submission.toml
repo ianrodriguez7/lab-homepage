@@ -1,0 +1,6 @@
+site_url = "https://ianrodriguez7.github.io/lab-homepage/"
+archive_url = "https://web.archive.org/save/https://ianrodriguez7.github.io/lab-homepage/"
+backlink_urls = [
+    "https://arianaclarkson.github.io/Lab-1/"
+    "https://jayla-prov.github.io/lab-homepage/"
+]
